@@ -1,2 +1,3 @@
 # day08
-hello1
+hello
+world
