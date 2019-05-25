@@ -1,3 +1,3 @@
 # day08
-hello
+hello 小猴子
 world
