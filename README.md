@@ -1,3 +1,3 @@
 # day08
-hello Ð¡ºïºï
+hello 
 world
